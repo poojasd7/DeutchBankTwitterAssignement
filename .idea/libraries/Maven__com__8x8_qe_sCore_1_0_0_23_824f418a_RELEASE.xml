@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._8x8.qe:sCore:1.0.0.23-824f418a-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/qe/sCore/1.0.0.23-824f418a-RELEASE/sCore-1.0.0.23-824f418a-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/qe/sCore/1.0.0.23-824f418a-RELEASE/sCore-1.0.0.23-824f418a-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/qe/sCore/1.0.0.23-824f418a-RELEASE/sCore-1.0.0.23-824f418a-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

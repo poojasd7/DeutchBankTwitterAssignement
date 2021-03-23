@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._8x8:generic-converter:2.4.8.2206c69b-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/generic-converter/2.4.8.2206c69b-RELEASE/generic-converter-2.4.8.2206c69b-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/generic-converter/2.4.8.2206c69b-RELEASE/generic-converter-2.4.8.2206c69b-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/generic-converter/2.4.8.2206c69b-RELEASE/generic-converter-2.4.8.2206c69b-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

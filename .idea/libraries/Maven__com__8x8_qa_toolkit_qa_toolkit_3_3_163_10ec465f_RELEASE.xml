@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com._8x8.qa-toolkit:qa-toolkit:3.3.163-10ec465f-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/qa-toolkit/qa-toolkit/3.3.163-10ec465f-RELEASE/qa-toolkit-3.3.163-10ec465f-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/qa-toolkit/qa-toolkit/3.3.163-10ec465f-RELEASE/qa-toolkit-3.3.163-10ec465f-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/_8x8/qa-toolkit/qa-toolkit/3.3.163-10ec465f-RELEASE/qa-toolkit-3.3.163-10ec465f-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.neovisionaries:nv-i18n:1.21">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-i18n/1.21/nv-i18n-1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-i18n/1.21/nv-i18n-1.21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-i18n/1.21/nv-i18n-1.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
